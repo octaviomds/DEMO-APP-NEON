@@ -6,7 +6,8 @@ exemple de base de données:
 
 
 
-<img width="652" height="333" alt="Capture d’écran 2025-09-17 à 22 40 06" src="https://github.com/user-attachments/assets/367ae9f1-c019-4246-9944-7dc99c3b1388" />
+<img width="849" height="489" alt="Capture d’écran 2025-09-17 à 22 49 36" src="https://github.com/user-attachments/assets/1ac7625e-a241-48c1-822c-7589706c3c4f" />
+
 
 
 
@@ -15,14 +16,16 @@ sécurité au niveau des lignes (RLS):
 
 
 
-<img width="652" height="333" alt="Capture d’écran 2025-09-17 à 22 41 07" src="https://github.com/user-attachments/assets/58225e4b-8e36-4294-920e-5bb741f21e48" />
+<img width="849" height="209" alt="Capture d’écran 2025-09-17 à 22 48 55" src="https://github.com/user-attachments/assets/1732173d-4f50-462b-81e8-e75f8a3c3beb" />
+
 
 
 
  CRUD :
 
-<img width="652" height="149" alt="Capture d’écran 2025-09-17 à 22 45 42" src="https://github.com/user-attachments/assets/cd4ac67f-9070-4167-9b74-6103c6c3cd8e" />
 
+
+<img width="849" height="327" alt="Capture d’écran 2025-09-17 à 22 50 13" src="https://github.com/user-attachments/assets/991f0af8-a53a-4294-8c14-3f6165b10420" />
 
 
 
