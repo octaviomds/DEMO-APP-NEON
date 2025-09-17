@@ -12,6 +12,11 @@ exemple de base de données:
 
 
 
+<img width="470" height="550" alt="Capture d’écran 2025-09-18 à 00 11 24" src="https://github.com/user-attachments/assets/d78b0088-b24d-4dd5-8840-f59d41253372" />
+
+
+
+
 sécurité au niveau des lignes (RLS):
 
 
