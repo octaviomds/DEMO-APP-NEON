@@ -28,6 +28,9 @@ sécurité au niveau des lignes (RLS):
 
  CRUD :
 
+ 
+
+<img width="566" height="550" alt="Capture d’écran 2025-09-18 à 00 16 13" src="https://github.com/user-attachments/assets/95c5b8cf-a27f-459c-b01c-a2a6fbf3d489" />
 
 
 <img width="849" height="327" alt="Capture d’écran 2025-09-17 à 22 50 13" src="https://github.com/user-attachments/assets/991f0af8-a53a-4294-8c14-3f6165b10420" />
