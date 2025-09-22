@@ -44,7 +44,7 @@ sécurité au niveau des lignes (RLS):
 
 <img width="596" height="280" alt="Capture d’écran 2025-09-17 à 22 25 42" src="https://github.com/user-attachments/assets/00157cff-c153-463c-afa5-708f1fcfef46" />
 
-creation ROLES :
+creation roles/users :
 
 ![IMG_5079](https://github.com/user-attachments/assets/46ce44a6-fe1c-4271-9801-14c84e220980)
 
